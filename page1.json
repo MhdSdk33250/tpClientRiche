@@ -1,14 +1,18 @@
 {
     
-    "txt":"Vous etes sur le point de commencer une aventure semé d'embûches ",
+    "txt":"Vous etes sur le point de commencer une aventure semé d'embuches ",
+    "img":"./Fichiers/elden-ring-pc-jeu-steam-europe-cover.jpg",
     "liens": [
         {
             "txt":"Installer elden ring comme un goat c: ",
             "lien":"#1"
+            
         },
         {
             "txt":"Ne pas installer elden ring et aller chouiner dans les jupes de ta daronne",
             "lien":"#2"
+            
+            
         }
     ]
 }
