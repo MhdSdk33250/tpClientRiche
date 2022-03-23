@@ -1,17 +1,11 @@
 {
     
-    "txt":"Vous etes sur le point de commencer une aventure semé d'embuches ",
+    "txt":"ta daronne te renie, tu ne mérite pas son amour",
     "img":"./Fichiers/elden-ring-pc-jeu-steam-europe-cover.jpg",
     "liens": [
         {
-            "txt":"Installer elden ring comme un goat c: ",
+            "txt":"Se forcer a avancer",
             "lien":"#1"
-            
-        },
-        {
-            "txt":"Ne pas installer elden ring et aller chouiner dans les jupes de ta daronne",
-            "lien":"#2"
-            
             
         }
     ]
