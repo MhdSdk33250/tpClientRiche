@@ -1,0 +1,18 @@
+{
+    
+    "txt":"BRAVO !! Vous etes officiellement un sans eclat ! ",
+    "img":"./Fichiers/elden-ring-pc-jeu-steam-europe-cover.jpg",
+    "liens": [
+        {
+            "txt":"Avancer jusqu'au prochain site de grace",
+            "lien":"#1"
+            
+        },
+        {
+            "txt":"Faire demi-tour et mourir",
+            "lien":"#4"
+            
+            
+        }
+    ]
+}
