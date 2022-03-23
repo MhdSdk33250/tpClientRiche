@@ -1,10 +1,14 @@
 {
     
     "txt":"Démarrez l'aventure !",
-    "links": [
+    "liens": [
         {
-            "txt":"Commencer l'aventure ↧",
-            "link":"#2"
+            "txt":"Installer elden ring comme un goat c: ",
+            "lien":"#1"
+        },
+        {
+            "txt":"Ne pas installer elden ring et aller chouiner dans les jupes de ta daronne",
+            "lien":"#2"
         }
     ]
 }
